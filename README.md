@@ -1,5 +1,5 @@
 # RentACar
-<img src="https://drive.google.com/file/d/18CgrCtIidkKqge7qLsfegbWVSE6sM1Z4/view" class="img-fluid" alt="Responsive image">
+[url=https://hizliresim.com/CC3mM1][img]https://i.hizliresim.com/CC3mM1.png[/img][/url]
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
