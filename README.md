@@ -4,8 +4,9 @@
 <img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/detaysayfas%C4%B1.png" class="img-fluid" alt="Detail Page">
 <img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/login.png" class="img-fluid" alt="Login Page">
 <img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/payment.png" class="img-fluid" alt="Payment Page">
-<img src="..." class="img-fluid" alt="Responsive image">
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/canyksl/) 
+<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
