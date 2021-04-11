@@ -1,4 +1,10 @@
 # RentACar
+<img src="https://drive.google.com/file/d/18CgrCtIidkKqge7qLsfegbWVSE6sM1Z4/view" class="img-fluid" alt="Responsive image">
+<img src="..." class="img-fluid" alt="Responsive image">
+<img src="..." class="img-fluid" alt="Responsive image">
+<img src="..." class="img-fluid" alt="Responsive image">
+<img src="..." class="img-fluid" alt="Responsive image">
+<img src="..." class="img-fluid" alt="Responsive image">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
