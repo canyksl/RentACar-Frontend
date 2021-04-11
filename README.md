@@ -1,6 +1,6 @@
 # RentACar
 
-<img src="https://hizliresim.com/CC3mM1" class="img-fluid" alt="Responsive image">
+<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/ara%C3%A7larsayfas%C4%B1.png" class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
