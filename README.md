@@ -1,6 +1,6 @@
 # RentACar
-[url=https://hizliresim.com/CC3mM1][img]https://i.hizliresim.com/CC3mM1.png[/img][/url]
-<img src="..." class="img-fluid" alt="Responsive image">
+
+<img src="https://hizliresim.com/CC3mM1" class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
 <img src="..." class="img-fluid" alt="Responsive image">
