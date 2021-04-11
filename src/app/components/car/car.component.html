@@ -1,0 +1,26 @@
+<div class="album py-5 bg-light">
+  <div class="container">
+
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div *ngFor="let car of cars"  class="col">
+        <div class="card" style="width: 18rem;">
+          <img [src]= "car.carImage.length !== 0 
+          ? 'https://localhost:44374/'+car.carImage 
+          : 'https://localhost:44374/uploads/default.png'" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">{{car.carName}}</h5>
+            <p class="card-text">{{car.brandName}}-{{car.colorName}}</p>
+            <h5 class="card-title">{{car.dailyPrice}}</h5>
+
+            
+            <a (click)="rentCar(car.carId)" class="btn btn-primary">Detay</a>
+          </div>
+        </div>
+          
+              
+            </div>
+          </div>
+        </div>
+      </div>
+   
+
