@@ -1,9 +1,9 @@
 # RentACar
 
-<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/ara%C3%A7larsayfas%C4%B1.png" class="img-fluid" alt="Responsive image">
-<img src="..." class="img-fluid" alt="Responsive image">
-<img src="..." class="img-fluid" alt="Responsive image">
-<img src="..." class="img-fluid" alt="Responsive image">
+<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/ara%C3%A7larsayfas%C4%B1.png" class="img-fluid" alt="Home Page">
+<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/detaysayfas%C4%B1.png" class="img-fluid" alt="Detail Page">
+<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/login.png" class="img-fluid" alt="Login Page">
+<img src="https://github.com/canyksl/RentACar-Frontend/blob/master/images/payment.png" class="img-fluid" alt="Payment Page">
 <img src="..." class="img-fluid" alt="Responsive image">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
